@@ -1,0 +1,47 @@
+[
+  {
+    "name": "GitHub",
+    "url": "https://github.com/brom4ker",
+    "icon": "assets/media/svg/github.svg"
+  },
+  {
+    "name": "Whatsapp Channel",
+    "url": "https://whatsapp.com/channel/0029Vb7t5E8EKyZR4x25pn2Z",
+    "icon": "assets/media/svg/whatsapp.svg"
+  },
+  {
+    "name": "Telegram",
+    "url": "https://t.me/brom4ker",
+    "icon": "assets/media/svg/telegram.svg"
+  },
+  {
+    "name": "Facebook",
+    "url": "https://facebook.com/brom4ker",
+    "icon": "assets/media/svg/facebook.svg"
+  },
+  {
+    "name": "Instagram",
+    "url": "",
+    "icon": "assets/media/svg/instagram.svg"
+  },
+  {
+    "name": "YouTube",
+    "url": "",
+    "icon": "assets/media/svg/youtube.svg"
+  },
+  {
+    "name": "Threads",
+    "url": "",
+    "icon": "assets/media/svg/threads.svg"
+  },
+  {
+    "name": "X",
+    "url": "",
+    "icon": "assets/media/svg/x.svg"
+  },
+  {
+    "name": "Reddit",
+    "url": "",
+    "icon": "assets/media/svg/reddit.svg"
+  }
+]
